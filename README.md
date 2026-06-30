@@ -60,8 +60,8 @@
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rudresh07&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="rudresh07 stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudresh07&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rudresh07&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="rudresh07 stats" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=rudresh07&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudresh07&hide_border=true&theme=tokyonight" alt="streak stats" />
